@@ -1,0 +1,14 @@
+D:\programming\C#\c# Advanced\predicate\bin\Debug\net8.0\predicate.exe
+D:\programming\C#\c# Advanced\predicate\bin\Debug\net8.0\predicate.deps.json
+D:\programming\C#\c# Advanced\predicate\bin\Debug\net8.0\predicate.runtimeconfig.json
+D:\programming\C#\c# Advanced\predicate\bin\Debug\net8.0\predicate.dll
+D:\programming\C#\c# Advanced\predicate\bin\Debug\net8.0\predicate.pdb
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.AssemblyInfoInputs.cache
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.AssemblyInfo.cs
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.csproj.CoreCompileInputs.cache
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.dll
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\refint\predicate.dll
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.pdb
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\predicate.genruntimeconfig.cache
+D:\programming\C#\c# Advanced\predicate\obj\Debug\net8.0\ref\predicate.dll

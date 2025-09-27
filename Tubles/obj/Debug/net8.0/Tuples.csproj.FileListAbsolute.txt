@@ -1,0 +1,14 @@
+D:\programming\C#\c# Advanced\Tubles\bin\Debug\net8.0\Tuples.exe
+D:\programming\C#\c# Advanced\Tubles\bin\Debug\net8.0\Tuples.deps.json
+D:\programming\C#\c# Advanced\Tubles\bin\Debug\net8.0\Tuples.runtimeconfig.json
+D:\programming\C#\c# Advanced\Tubles\bin\Debug\net8.0\Tuples.dll
+D:\programming\C#\c# Advanced\Tubles\bin\Debug\net8.0\Tuples.pdb
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.AssemblyInfoInputs.cache
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.AssemblyInfo.cs
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.csproj.CoreCompileInputs.cache
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.dll
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\refint\Tuples.dll
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.pdb
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\Tuples.genruntimeconfig.cache
+D:\programming\C#\c# Advanced\Tubles\obj\Debug\net8.0\ref\Tuples.dll

@@ -1,0 +1,14 @@
+D:\programming\C#\c# Advanced\Func_Action_Predicate\bin\Debug\net8.0\Func.exe
+D:\programming\C#\c# Advanced\Func_Action_Predicate\bin\Debug\net8.0\Func.deps.json
+D:\programming\C#\c# Advanced\Func_Action_Predicate\bin\Debug\net8.0\Func.runtimeconfig.json
+D:\programming\C#\c# Advanced\Func_Action_Predicate\bin\Debug\net8.0\Func.dll
+D:\programming\C#\c# Advanced\Func_Action_Predicate\bin\Debug\net8.0\Func.pdb
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.AssemblyInfoInputs.cache
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.AssemblyInfo.cs
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.csproj.CoreCompileInputs.cache
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.dll
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\refint\Func.dll
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.pdb
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\Func.genruntimeconfig.cache
+D:\programming\C#\c# Advanced\Func_Action_Predicate\obj\Debug\net8.0\ref\Func.dll

@@ -1,0 +1,14 @@
+D:\programming\C#\c# Advanced\Action\bin\Debug\net8.0\Action.exe
+D:\programming\C#\c# Advanced\Action\bin\Debug\net8.0\Action.deps.json
+D:\programming\C#\c# Advanced\Action\bin\Debug\net8.0\Action.runtimeconfig.json
+D:\programming\C#\c# Advanced\Action\bin\Debug\net8.0\Action.dll
+D:\programming\C#\c# Advanced\Action\bin\Debug\net8.0\Action.pdb
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.AssemblyInfoInputs.cache
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.AssemblyInfo.cs
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.csproj.CoreCompileInputs.cache
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.dll
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\refint\Action.dll
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.pdb
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\Action.genruntimeconfig.cache
+D:\programming\C#\c# Advanced\Action\obj\Debug\net8.0\ref\Action.dll
